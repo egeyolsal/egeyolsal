@@ -14,8 +14,6 @@
 
 - 💼 You can find me on [LinkedIn](https://www.linkedin.com/in/egeyolsal)
 
-## Languages and Tools
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -69,8 +67,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
 </p>
-
-## GitHub Stats
 
 <p align="left">
   <picture>
