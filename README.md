@@ -1,11 +1,8 @@
 <p align="center">
   <a href="https://github.com/egeyolsal">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=150&section=header&text=Ege%20Yolsal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="MasterHead" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,55:172554,100:2F80ED&height=115&section=header&text=Ege%20YOLSAL&fontSize=44&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn" alt="Ege YOLSAL" width="100%" />
   </a>
 </p>
-
-<h1 align="center">Hi 👋, I'm Ege</h1>
-<h3 align="center">I'm a Computer Engineering Student.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=egeyolsal&label=Profile%20views&color=2F80ED&style=flat" alt="egeyolsal" />
@@ -17,14 +14,8 @@
 
 - 💼 You can find me on [LinkedIn](https://www.linkedin.com/in/egeyolsal)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/egeyolsal" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egeyolsal" height="30" width="40" />
-  </a>
-</p>
+## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -78,6 +69,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
 </p>
+
+## GitHub Stats
 
 <p align="left">
   <picture>
